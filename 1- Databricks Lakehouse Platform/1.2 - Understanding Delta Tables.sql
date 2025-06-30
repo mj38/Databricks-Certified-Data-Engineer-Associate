@@ -1,7 +1,9 @@
 -- Databricks notebook source
 -- MAGIC %md
 -- MAGIC ## Creating Delta Lake Tables
--- New command from jays local PC
+-- MAGIC -- New command from jays local PC
+-- MAGIC -- Hello from databricks
+
 -- COMMAND ----------
 
 USE CATALOG hive_metastore
